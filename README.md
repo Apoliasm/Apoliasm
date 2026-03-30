@@ -34,8 +34,7 @@
 
   ### Etc
   ![Claude](https://custom-icon-badges.demolab.com/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-  ![OpenRouter](https://custom-icon-badges.demolab.com/badge/OpenRouter-%236366F1.svg?style=for-the-badge&logo=openrouter&logoColor=whi
-  te)
+  ![OpenRouter](https://custom-icon-badges.demolab.com/badge/OpenRouter-%236366F1.svg?style=for-the-badge&logo=openrouter&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white)
